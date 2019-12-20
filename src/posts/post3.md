@@ -1,10 +1,10 @@
 ---
-slug: "/first-post"
-date: "2019-12-19"
-title: "Our First Post"
+slug: "/third-post"
+date: "2019-12-20"
+title: "Our Third Post"
 ---
 
-# Hello
+# Yo!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus iaculis fermentum. Integer in nisi non tellus malesuada sollicitudin. Donec vel semper elit, in vulputate tortor. Suspendisse dolor orci, pharetra vitae fermentum id, consectetur nec turpis. Mauris eu dignissim tortor. Nullam vel est a risus hendrerit ultricies ac cursus nibh. Maecenas sit amet tincidunt nulla, ac imperdiet nulla.
 
