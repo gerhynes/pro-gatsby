@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { graphql } from "gatsby";
+import { Link, graphql } from "gatsby";
 import Layout from "./layout";
 
 // Static Query
@@ -20,6 +20,7 @@ export default class postLayout extends Component {
             __html: markdownRemark.html,
           }}
         />
+        <Link to="/">Go Back</Link>
       </Layout>
     );
   }
