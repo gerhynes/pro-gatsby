@@ -3,7 +3,7 @@ import { Link } from "gatsby";
 import PropTypes from "prop-types";
 import styled from "styled-components";
 
-import gatsbyLogo from "../images/gatsby-icon.png";
+import Logo from "../images/logo.svg";
 
 const HeaderWrapper = styled.header`
   background: #524763;
@@ -13,11 +13,11 @@ const HeaderWrapper = styled.header`
   }
 `;
 const HeaderContainer = styled.div`
-  margin: 0 auto;
+  margin: 0;
   max-width: 960px;
-  padding: 0.5rem;
+  padding: 1rem;
   h1 {
-    margin: 0 0 0 1rem;
+    margin: 0 0 0 1.5rem;
   }
   a {
     display: flex;
@@ -35,7 +35,7 @@ const Header = ({ siteTitle }) => (
           textDecoration: `none`,
         }}
       >
-        <img src={gatsbyLogo} alt="Gatsby Logo" style={{ width: "100px" }} />
+        <img src={Logo} alt="Level Up Logo" style={{ width: "100px" }} />
         <h1>{siteTitle}</h1>
       </Link>
     </HeaderContainer>

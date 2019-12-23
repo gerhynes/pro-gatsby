@@ -1,7 +1,7 @@
 ---
 slug: "/third-post"
 date: "2019-12-21"
-title: "Our Third Post"
+title: "Radio-Quality Voicework"
 ---
 
 # Yo!

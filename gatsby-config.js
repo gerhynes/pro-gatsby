@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Pro Gatsby Demo`,
+    title: `Level Up Blog`,
     description: `A demo site for Level Up Tutorials' Pro Gatsby course`,
     author: `Ger Hynes`,
   },
