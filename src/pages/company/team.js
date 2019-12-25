@@ -1,7 +1,7 @@
 import React from "react";
 import Layout from "../../components/layout";
 
-const Team = () => (
+const Team = ({location}) => (
   <Layout>
     <div>
       <h1>Our Team</h1>
