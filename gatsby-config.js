@@ -2,9 +2,11 @@ module.exports = {
   siteMetadata: {
     title: `Level Up Blog`,
     description: `A demo site for Level Up Tutorials' Pro Gatsby course`,
+    siteUrl: `https://gracious-mcnulty-471cc0.netlify.com`,
     author: `Ger Hynes`,
   },
   plugins: [
+    `gatsby-plugin-sitemap`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
     {
